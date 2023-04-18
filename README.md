@@ -34,27 +34,20 @@ $ npm install
 
 ## Running the app
 
-```bash
-# development
-$ npm run start
+# start with docker
+$ docker-compose up 
 
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
 
 ## Test
 
 ```bash
-# unit tests
+# unit tests (no tests)
 $ npm run test
 
-# e2e tests
+# e2e tests (no tests)
 $ npm run test:e2e
 
-# test coverage
+# test coverage (no tests)
 $ npm run test:cov
 ```
 
